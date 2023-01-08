@@ -28,6 +28,8 @@ My project goals are as follows;
 •	Determine if honeybees are facing extinction and provide potential solutions to halt this possible extinction.
 •	Ascertain what caused US honeybee production to drop and provide potential remedies to increase production. 
 
+Final Analysis
+
 It is my analysis that plummeting honey production appears to be the result of pesticides, a reduction in crops caused by weather and other factors, as well as colony collapse disorder. Pesticides being the largest contributor with crop reduction coming in second. 
 Potential viable solutions to these issues is further research into pesticides that are safe for bees and a wide distribution of the resulting product to the agricultural industry as well as a media campaign to encourage the American public to stop use of harmful pesticides. One path for research direction would be investigation into the historical natural remedies for pests that our global ancestors used. An exchange of knowledge between the US and countries like China, New Zeland and India could obtain the information the US is in so dire need of regarding bee friendly pest control. The aforementioned countries being the top three largest honey producers in the world. 
 A campaign could also be initiated to create a foundation that plants bee friendly plants all over the country in local parks and through school project initiatives like Earth Day. One could even petition the Federal Government to provide extra funding for schools to participate in the Bee Friendly Plant Project as well as provide incentives for businesses in the agricultural sector to switch to more bee friendly pesticides.  
@@ -41,6 +43,7 @@ For this project, I have chosen the following methods of showing my data:
 •	 Deepnote
 •	Salesforce
 •	Tableau
+
 Contributor(s)
 
 This project was created by me with the aid and support of:
@@ -49,6 +52,6 @@ This project was created by me with the aid and support of:
 Processes
 I made a list using the Alexa app to keep track of all my project tasks as this was a solo project.
 
-Final Analysis
 
-After examining all of the data presented, it is clear that my initial hypothesis was rather accurate. Pesticides and deforestation are leading causes of production issues. 
+
+
