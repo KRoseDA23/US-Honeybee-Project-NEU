@@ -24,9 +24,10 @@ My name is Katlynn Rose. I am an aspiring Data Analyst with a background in mark
 At the beginning of my educational journey with NEU, I had no prior experience with the intricate details of Data Science. However, I am curious by nature and have a long history of research and study into topics of interest stretching back to my childhood. A love of knowledge has driven me forward to this point in my professional life. Along this journey, I have discovered a passion for coding as well as data science in general. I endeavor to continue my education, even after obtaining employment as there is still so much to learn and expand my knowledge on. Data science is a truly fascinating and enjoyable career path that I look forward to exploring. 
 
 When considering what I wanted to present to all attending today, I wanted to choose a subject that would not only showcase my newly acquired analytical skills, but also be a subject that I am passionate about. The survival of the honeybees and humanity is a subject I can be very passionate about. Having heard for years that honeybees are in trouble I became curious to find out why. I endeavored to find out, exactly what issues are present in our honeybee population here in the United States. 
+
 My project goals are as follows;
-•	Determine whether US honeybee population is sufficient for the desired production outcome.
-•	Determine if honeybees are facing extinction and provide potential solutions to halt this possible extinction.
+•	Explain the importance of Honeybees and why their decline in production matters. 
+• Examine all potential factors that could affect honeybee's negatively.
 •	Ascertain what caused US honeybee production to drop and provide potential remedies to increase production. 
 
 Final Analysis
