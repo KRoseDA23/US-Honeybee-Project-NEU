@@ -52,7 +52,7 @@ This project was created by me with the aid and support of:
 •	Katia Punter- Python and coding resource
 
 Processes
-I made a list using the Alexa app to keep track of all my project tasks as this was a solo project.
+I utilized Github to track project goals and ensure the ability to stay on target. 
 
 
 
